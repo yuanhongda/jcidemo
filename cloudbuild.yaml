@@ -1,0 +1,2 @@
+steps:
+ args: ['mvn', 'install', 'packages']
